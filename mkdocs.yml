@@ -1,6 +1,5 @@
 site_name: The Kick Vault
 site_url: https://thekickvault.github.io/
-repo_url: https://github.com/thekickvault/thekickvault
 theme:
   name: material
   language: en
@@ -10,6 +9,7 @@ theme:
       primary: black
       accent: indigo
   features:
+    - navigation.tabs
     - navigation.instant
     - navigation.sections
     - search.suggest
@@ -19,8 +19,13 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/thekickvault
 nav:
-  - Home: gallery.md
-  - About: about.md
+  - Home: index.md
+  - R&D: rnd.md
+  - Blog: blog.md
+  - Soccer Tutorials: tutorials.md
+  - Fun: fun.md
+  - Contact: contact.md
+  - Donate: donate.md
 markdown_extensions:
   - admonition
   - attr_list

@@ -1,19 +1,4 @@
 ;(function(){
-  // Loader overlay for 5s
-  const loader = document.createElement('div')
-  loader.className = 'glow-loader'
-  const cleat = document.createElement('div')
-  cleat.className = 'glow-cleat'
-  loader.appendChild(cleat)
-  document.addEventListener('DOMContentLoaded',()=>{
-    document.body.appendChild(loader)
-    setTimeout(()=>{
-      loader.style.opacity='0'
-      loader.style.transition='opacity .5s ease'
-      setTimeout(()=> loader.remove(), 500)
-    }, 5000)
-  })
-
   // Simple client-side filtering on gallery page
   function setupFilters(){
     const container = document.querySelector('[data-gallery]')
@@ -32,4 +17,16 @@
     apply()
   }
   document.addEventListener('DOMContentLoaded', setupFilters)
+
+  // Advertisement side panels
+  function injectAds(){
+    const left = document.createElement('div')
+    left.className = 'ad-panel ad-left'
+    left.innerHTML = '<div class="ad-box">Your Ad Here\n240x300</div><div class="ad-box">Sponsor: The Kick Vault</div>'
+    const right = document.createElement('div')
+    right.className = 'ad-panel ad-right'
+    right.innerHTML = '<div class="ad-box">Concept Boots Drop</div><div class="ad-box">Custom Plates R&D</div>'
+    document.body.append(left, right)
+  }
+  document.addEventListener('DOMContentLoaded', injectAds)
 })();
