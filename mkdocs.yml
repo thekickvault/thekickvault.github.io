@@ -1,0 +1,38 @@
+site_name: The Kick Vault
+site_url: https://thekickvault.github.io/
+repo_url: https://github.com/thekickvault/thekickvault
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: pink
+    - scheme: slate
+      primary: indigo
+      accent: pink
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - search.suggest
+    - content.code.copy
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/thekickvault
+nav:
+  - Home: index.md
+  - Gallery: gallery.md
+  - About: about.md
+markdown_extensions:
+  - admonition
+  - attr_list
+  - codehilite
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+docs_dir: mkdocs
+site_dir: docs
+
