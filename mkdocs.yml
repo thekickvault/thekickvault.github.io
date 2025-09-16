@@ -4,17 +4,14 @@ repo_url: https://github.com/thekickvault/thekickvault
 theme:
   name: material
   language: en
+  custom_dir: mkdocs/overrides
   palette:
-    - scheme: default
-      primary: indigo
-      accent: pink
     - scheme: slate
-      primary: indigo
-      accent: pink
+      primary: black
+      accent: indigo
   features:
-    - navigation.tabs
-    - navigation.sections
     - navigation.instant
+    - navigation.sections
     - search.suggest
     - content.code.copy
 extra:
@@ -22,8 +19,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/thekickvault
 nav:
-  - Home: index.md
-  - Gallery: gallery.md
+  - Home: gallery.md
   - About: about.md
 markdown_extensions:
   - admonition
@@ -35,4 +31,8 @@ markdown_extensions:
       permalink: true
 docs_dir: mkdocs
 site_dir: docs
+extra_css:
+  - assets/css/custom.css
+extra_javascript:
+  - assets/js/custom.js
 

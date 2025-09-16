@@ -1,0 +1,30 @@
+:root{
+  --evan-accent:#6b7cff;
+}
+html{scroll-behavior:smooth}
+.md-main{background:#000}
+.md-header, .md-footer{background:#000 !important}
+.md-content{background:#000}
+.glow-loader{
+  position:fixed;inset:0;display:grid;place-items:center;background:#000;z-index:9999;
+}
+.glow-cleat{
+  width:240px;height:240px;border-radius:24px;position:relative;
+  background:radial-gradient(120px 60px at 50% 55%,rgba(107,124,255,.35),transparent 60%),
+             radial-gradient(160px 90px at 50% 50%,rgba(255,0,128,.2),transparent 70%),
+             #0a0a0a;
+  box-shadow:0 0 120px 30px rgba(107,124,255,.15),0 0 60px 10px rgba(255,0,128,.1) inset;
+}
+.glow-cleat:before{
+  content:"";position:absolute;left:20px;right:20px;bottom:50px;height:18px;border-radius:999px;
+  background:linear-gradient(90deg,rgba(107,124,255,.8),rgba(255,0,128,.7));filter:blur(10px);
+}
+.filters{
+  position:sticky;top:5.5rem;border:1px solid rgba(255,255,255,.08);border-radius:16px;padding:12px;background:rgba(255,255,255,.03);
+}
+.evan-logo{
+  font-weight:800;letter-spacing:.04em;color:#fff
+}
+.evan-logo .merge{color:var(--evan-accent)}
+.copyright{opacity:.7}
+
