@@ -1,8 +1,8 @@
 ---
-title: The Kick Vault
+title: The Cosmic Vault
 ---
 
-# Welcome to The Evan's Kick Vault
+# Welcome to The Evan's Cosmic Vault
 
 <div style="display:grid;place-items:center;min-height:62vh;text-align:center;padding:32px;background:#000;">
   <div>
