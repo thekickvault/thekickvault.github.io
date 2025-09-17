@@ -1,5 +1,5 @@
 ---
-title: The Cosmic Vault
+title: The Kick Vault
 ---
 
 # Welcome to The Evan's Cosmic Vault
