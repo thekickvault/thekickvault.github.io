@@ -1,8 +1,8 @@
 ---
-title: The Kick Vault
+title: The Cosmic Vault
 ---
 
-# Welcome to The Evan's Kick Vault
+# Welcome to The Evan's Cosmic Vault
 
 <div style="display:grid;place-items:center;min-height:62vh;text-align:center;padding:32px;background:#000;">
   <div>
@@ -16,7 +16,7 @@ title: The Kick Vault
 </div>
 
 <div style="display:grid;place-items:center;padding:32px;background:#000;">
-  <img src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868632_1280.jpg" alt="Futuristic Soccer Cleat" style="width:400px;height:300px;object-fit:cover;border-radius:24px;box-shadow:0 20px 40px rgba(107,124,255,0.3);" />
+  <img src="./assets/images/furistic_cleats.png" alt="Futuristic Soccer Cleat" style="width:400px;height:300px;object-fit:cover;border-radius:24px;box-shadow:0 20px 40px rgba(107,124,255,0.3);" />
   <div style="margin-top:16px;color:#888;font-size:14px;">Concept render</div>
 </div>
 
