@@ -43,7 +43,7 @@ title: The Cosmic Vault
 <div class="cards two-col" data-gallery>
 
 <div class="card" data-card data-tags="speed carbon laceless">
-  <img alt="Alpha Phantom X" src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868632_1280.jpg" />
+  <img alt="Himalaya yetis" src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868632_1280.jpg" />
   <div>
     <h4>Alpha Phantom X</h4>
     <p class="meta">Upper: Monofilament knit + PU skin</p>
@@ -53,7 +53,7 @@ title: The Cosmic Vault
 </div>
 
 <div class="card" data-card data-tags="control knit">
-  <img alt="Aero Volt Pro" src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868633_1280.jpg" />
+  <img alt="snow leopards" src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868633_1280.jpg" />
   <div>
     <h4>Aero Volt Pro</h4>
     <p class="meta">Upper: Engineered mesh + control print</p>
@@ -63,7 +63,7 @@ title: The Cosmic Vault
 </div>
 
 <div class="card" data-card data-tags="traction gtx weatherproof">
-  <img alt="Terra Blaze GTX" src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868634_1280.jpg" />
+  <img alt="Himalayen wolf" src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868634_1280.jpg" />
   <div>
     <h4>Terra Blaze GTX</h4>
     <p class="meta">Upper: Waterproof knit + fused overlays</p>
@@ -73,7 +73,7 @@ title: The Cosmic Vault
 </div>
 
 <div class="card" data-card data-tags="speed carbon lightweight">
-  <img alt="Neo Touch Elite" src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868635_1280.jpg" />
+  <img alt="himalaya yeti pros" src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868635_1280.jpg" />
   <div>
     <h4>Neo Touch Elite</h4>
     <p class="meta">Upper: K-leather hybrid + microsuede liner</p>
@@ -83,7 +83,7 @@ title: The Cosmic Vault
 </div>
 
 <div class="card" data-card data-tags="control precision engineered">
-  <img alt="Velocity Prime" src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868636_1280.jpg" />
+  <img alt="snow leopard pros" src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868636_1280.jpg" />
   <div>
     <h4>Velocity Prime</h4>
     <p class="meta">Upper: Primeknit with precision zones</p>
@@ -93,7 +93,7 @@ title: The Cosmic Vault
 </div>
 
 <div class="card" data-card data-tags="traction stability comfort">
-  <img alt="Storm Forge" src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868637_1280.jpg" />
+  <img alt="himalaya wolf pros" src="https://cdn.pixabay.com/photo/2016/11/29/09/16/athlete-1868637_1280.jpg" />
   <div>
     <h4>Storm Forge</h4>
     <p class="meta">Upper: Weather-resistant synthetic</p>
